@@ -1,0 +1,57 @@
+H1,
+H2 {
+  color: red;
+}
+
+[title] {
+  color: blue;
+}
+
+.nav {
+  color: indigo;
+}
+
+.ukraine * {
+  color: greenyellow;
+}
+
+/* .ukrain h2 {
+  color: red;
+} */
+
+.ukrain-history {
+  color: cornflowerblue;
+}
+
+.ukrain-history span {
+  color: rgb(158, 127, 211);
+}
+
+.culture + p {
+  color: darkblue;
+}
+
+div .clothes {
+  color: chocolate;
+}
+
+mark {
+  color: rgb(28, 184, 220);
+
+}
+
+#facts {
+  color: rgb(45, 66, 6);
+}
+
+.ukrain-modern h2 {
+  color: darksalmon;
+}
+
+.footer {
+  color: darkslategray;
+}
+
+a.title {
+  color: orange;
+}
