@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Shafarik:wght@400&display=swap");
+
+h1 {
+  font-size: 25px;
+  font-family: "Shafarik", serif;
+  text-decoration: dashed underline;
+}
+
+.hero-text {
+  font-family: "Shafarik", serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.hero-txt {
+  font-family: "Pacifico", cursive;
+  font-size: 22px;
+}
+
+.cats-predator {
+  font-family: "FixelDisplay", sans-serif;
+  font-weight: 500;
+  font-style: oblique;
+}
+
+.cats {
+  font-size: 30px;
+  font-weight: 600;
+  color: blueviolet;
+  text-align: center;
+  text-decoration: double underline;
+  text-decoration-color: cornflowerblue;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 5px;
+  line-height: 2;
+}
+
+.cat-fur {
+  font-size: 35px;
+  font-weight: 800;
+  text-align: right;
+  text-decoration: line-through;
+  text-decoration-color: chocolate;
+  text-transform: capitalize;
+  line-height: 1.8;
+}
+
+.cat-long-hair {
+  letter-spacing: 1.5px;
+  line-height: 2;
+}
+.cat-color {
+  word-spacing: 12px;
+  line-height: 2;
+}
+.cat-sphinks {
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+.Cats-tail {
+  text-shadow: -3px 3px 5px red;
+  font-size: 30px;
+  text-align: justify;
+  text-decoration: overline underline;
+  text-decoration-color: brown;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.3px;
+}
+.cats-tail-txt {
+  font-family: "Fira Code", monospace;
+  text-decoration: dotted underline;
+}
+
+
+/* Макет */
+
