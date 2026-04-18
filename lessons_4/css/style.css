@@ -9,18 +9,34 @@ h1 {
 .hero-text {
   font-family: "Shafarik", serif;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 900;
 }
 
 .hero-txt {
   font-family: "Pacifico", cursive;
   font-size: 22px;
+  font-weight: 200;
 }
 
 .cats-predator {
   font-family: "FixelDisplay", sans-serif;
   font-weight: 500;
   font-style: oblique;
+}
+.cats-teeth {
+  font-weight: 100;
+  color: darkcyan;
+  text-decoration: underline;
+  text-decoration-color: #1aaf5b;
+}
+
+.cats-talk {
+  font-size: 22px;
+  font-weight: 300;
+  text-transform: capitalize;
+  text-shadow:
+    2px 3px 5px rgb(255, 0, 0),
+    8px 7px 7px rgba(9, 9, 236, 0.944);
 }
 
 .cats {
@@ -72,6 +88,34 @@ h1 {
   text-decoration: dotted underline;
 }
 
-
 /* Макет */
 
+.section {
+  font-family: "DM Sans", sans-serif;
+}
+
+.section p {
+  font-size: 20px;
+  letter-spacing: -0.5px;
+
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.section-title {
+  font-size: 50px;
+  letter-spacing: -1.26px;
+  color: #131313;
+}
+
+.section-title span {
+  font-weight: 700;
+  color: #1aaf5b;
+}
+
+.button {
+  background-color: #1aaf5b;
+  color: #ffffff;
+  letter-spacing: -0.43px;
+  font-size: 17px;
+  font-weight: 700;
+}
